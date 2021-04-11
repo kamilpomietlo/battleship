@@ -3,6 +3,7 @@ package com.kamilpomietlo;
 public class Main {
 
     public static void main(String[] args) {
-	// write your code here
+        Battleship battleship = new Battleship();
+        battleship.start();
     }
 }
